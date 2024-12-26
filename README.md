@@ -8,6 +8,7 @@ This repository features a comprehensive implementation of Dijkstra's algorithm 
 - [Implementation Details](#implementation-details)
 - [Graph Representation](#graph-representation)
 - [How to Run](#how-to-run)
+- [Files in the Repository](#files-in-the-repository)
 ## Overview
 This project models a network of cities connected by roads, using Dijkstra's algorithm to find and visualize the shortest paths. Leveraging a dynamic GUI, users can:
 - Compute Euclidean distances between directly linked cities.
@@ -91,3 +92,15 @@ Ensure you have Java installed on your system.
 5. ***Explore Classes:***
    Familiarize yourself with Vertex.java and Edge.java for a better understanding of how the graph is represented.
    These classes store the vertices and edges of the graph but do not require modifications for this project.
+
+## Files in the Repository
+### Core Files
+- `Vertex.java`: Represents cities in the graph.
+- `Edge.java`: Represents roads between cities.
+- `GraphProcessor.java`: Implements Dijkstra's algorithm and graph operations.
+- `Display.java`: Provides the GUI for visualization.
+
+### Data Files
+- `cityxy.txt`: Contains city names and their (X, Y) coordinates.
+- `citypairs.txt`: Defines the connections (edges) between cities.
+
