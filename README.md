@@ -8,9 +8,6 @@ This repository features a comprehensive implementation of Dijkstra's algorithm 
 - [Implementation Details](#implementation-details)
 - [Graph Representation](#graph-representation)
 - [How to Run](#how-to-run)
-- [Files in the Repository](#files-in-the-repository)
----
-
 ## Overview
 This project models a network of cities connected by roads, using Dijkstra's algorithm to find and visualize the shortest paths. Leveraging a dynamic GUI, users can:
 - Compute Euclidean distances between directly linked cities.
