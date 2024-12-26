@@ -80,3 +80,20 @@ Ensure you have Java installed on your system.
 1. **Compile the Files:**
    ```bash
    javac *.java
+2. **Run the GUI Program:**
+   bash
+   Copy code
+   java Display
+   After launching the program, the GUI will display a map with cities and roads.
+3. ***Visualize Shortest Paths:***
+   Click "Compute All Euclidean Distances" to calculate the distances between connected cities.
+   Select the source and target cities from the dropdowns.
+   Click "Draw Dijkstra's Path" to visualize the shortest path on the map.
+4. ***Terminate the Program:***
+   Close the GUI window or use CTRL+C in the terminal.
+   Switch to Desktop Mode:
+   Click on the "Box URL" button in the toolbar to access the virtual desktop environment if required.
+   If the "Box URL" option is missing, locate it via the "Project Index (static)" dropdown.
+5. ***Explore Classes:***
+   Familiarize yourself with Vertex.java and Edge.java for a better understanding of how the graph is represented.
+   These classes store the vertices and edges of the graph but do not require modifications for this project.
