@@ -9,9 +9,6 @@ This repository features a comprehensive implementation of Dijkstra's algorithm 
 - [Graph Representation](#graph-representation)
 - [How to Run](#how-to-run)
 - [Files in the Repository](#files-in-the-repository)
-- [License](#license)
-- [Contribution](#contribution)
-
 ---
 
 ## Overview
