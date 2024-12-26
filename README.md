@@ -97,7 +97,7 @@ Ensure you have Java installed on your system.
 ### Core Files
 - `Vertex.java`: Represents cities in the graph.
 - `Edge.java`: Represents roads between cities.
-- `GraphProcessor.java`: Implements Dijkstra's algorithm and graph operations.
+- `Dijkstra.java`: Implements Dijkstra's algorithm and graph operations.
 - `Display.java`: Provides the GUI for visualization.
 
 ### Data Files
